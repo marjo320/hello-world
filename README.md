@@ -1,2 +1,7 @@
 # hello-world
-test initial repository
+
+
+Greetings Earthlings,
+
+We are Marjo
+We Kill
